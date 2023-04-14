@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "882887991644",
+    "project_id": "sorbonne-nouvelle",
+    "storage_bucket": "sorbonne-nouvelle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882887991644:android:02c494f3811b513b0a6199",
+        "android_client_info": {
+          "package_name": "com.example.flesn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882887991644-eslj6d71657qvd6r7oh59mkf0o8mkjh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATqSM08xD9nUs1HfWbdR3Jqg0LgJck85U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882887991644-eslj6d71657qvd6r7oh59mkf0o8mkjh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882887991644-mc52v8tdqg1i7mkl2ethn44d4f7ucrn1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flesn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
