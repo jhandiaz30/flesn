@@ -13,8 +13,7 @@ import 'package:lottie/lottie.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-    name: "Sorbonne Nouvelle",
-options: FirebaseOptions(apiKey: "AIzaSyDW6t4FSmMY3yW5jA1H53n4fke0CJis1mM",appId: "1:882887991644:web:d67e1c127b3bd5ce0a6199", messagingSenderId: "882887991644", projectId: "sorbonne-nouvelle")
+
 
   );
   runApp(MaterialApp(
