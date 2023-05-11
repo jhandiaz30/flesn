@@ -1,16 +1,9 @@
-# flesn
+# Flesn
 
 A new Flutter project.
 
-## Getting Started
+## Français Langue Étrangère Sorbonne Nouvelle
 
-This project is a starting point for a Flutter application.
+C'est une application mobile multiplateforme développée avec le framework Flutter. Ce projet personnelle vise à améliorer les compétences linguistiques en français, notamment la production orale, la compréhension orale et la production écrite. Cette première version a été spécialement conçue pour les étudiants du DUEF. Les fonctionnalités de l'application comprennent un espace dédié pour le téléchargement d’audios  et d'images sur un sujet donné pour l'enseignant, un espace permettant d'ajouter des commentaires, un accès à tous les cours et thèmes créés, ainsi qu'un scénario d'utilisation pour des exercices tels que des débats ou des présentations.
+Cette application est disponible sur Android et iOS. Pour y accéder, les utilisateurs doivent disposer d'un identifiant fourni par l'université.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
